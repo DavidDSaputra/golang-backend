@@ -1,0 +1,8 @@
+.env
+firebase-service-account.json
+myprojectfirebas-86a91-firebase-adminsdk-fbsvc-06c6f153eb.json
+*.exe
+*.test
+/tmp
+/vendor
+/bin
